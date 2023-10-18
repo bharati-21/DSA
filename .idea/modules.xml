@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/DoublyLinkedLists/DoublyLinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/DoublyLinkedLists/DoublyLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphsRepresentation/GraphsRepresentation.iml" filepath="$PROJECT_DIR$/GraphsRepresentation/GraphsRepresentation.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/SinglyLinkedLists/SinglyLinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/SinglyLinkedLists/SinglyLinkedLists.iml" />
     </modules>
   </component>
